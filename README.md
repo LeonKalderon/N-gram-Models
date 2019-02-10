@@ -20,6 +20,9 @@ For the entire corpus (http://www.statmt.org/europarl/) we need a minimum of 16g
 * ntlk
 * sklearn
 * typing
+* pandas
+* numpy
+* scipy
 
 ## Authors
 * **Georgia Sarri**
