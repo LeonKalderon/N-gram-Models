@@ -10,6 +10,8 @@ The main module of the project is main.py that evaluates the different language 
 * Linear interpolation with the above two models.
 * Kneser-Ney smoothing on bi-grams.
 
+For all the above models, we calculate cross-entropy and perplexity in order to tune, evaluate and compare them.
+
 ### Problems Encoutered
 For the entire corpus (http://www.statmt.org/europarl/) we need a minimum of 16gb RAM to avoid memory error.
 
